@@ -4,7 +4,7 @@
 |      Lab No.  |  Marks   |              Remarks                         |
 |---------------|--------  |----------------------------------------------|
 |        0      |  8 / 10  | Write question Numbers, Input method? , sorting? , Subtract matrix                   |
-|        1      |  5 / 10  | Kanpur cartesian?, inverse trans? (1) + wrong computation (1) +  2.5 + wrong (1)  |
+|        1      |  5.5/ 10  | Kanpur cartesian?, inverse trans? (1) + wrong computation (1) +  2.5 + wrong (1)  |
 |        2      |    / 10  |                                              |
 |        3      |    / 10  |                                              |
 
